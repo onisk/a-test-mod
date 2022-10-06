@@ -1,0 +1,19 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "industry:item/injector_empty"
+  },"overrides": [
+  {
+    "predicate": {
+      "industry:empty": 0
+    },
+    "model": "industry:item/injector_empty"
+  },
+  {
+    "predicate": {
+      "industry:empty": 1
+    },
+    "model": "industry:item/injector_with_blood"
+  }
+]
+}

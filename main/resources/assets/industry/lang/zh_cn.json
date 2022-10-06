@@ -1,0 +1,11 @@
+{
+  "item.industry.iron_stick": "铁棒",
+  "item.industry.iron_plate": "铁板",
+  "item.industry.iron_plate_shovel": "铁板锹",
+  "itemGroup.industry.Industry_Group": "工业物品栏",
+  "block.industry.steel_block": "钢块",
+  "item.industry.injector": "注射器",
+  "tooltip.injector_empty": "空",
+  "tooltip.injector_entity": "血液样本:%1$s",
+  "message.hello": "测试"
+}

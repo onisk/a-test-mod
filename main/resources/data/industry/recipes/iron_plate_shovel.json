@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " $ ",
+    " $ "
+  ],
+  "key": {
+    "#": {
+      "item": "industry:iron_plate"
+    },
+    "$": {
+      "item": "industry:iron_stick"
+    }
+  },
+  "result": {
+    "item": "industry:iron_plate_shovel",
+    "count": 1
+  }
+}
